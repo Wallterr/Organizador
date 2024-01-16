@@ -1,0 +1,137 @@
+#title-todo{
+    color: #FFFFFF;
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 1311px;
+    height: 60px;
+    margin-top: 119px;
+    margin-left: 64px;
+
+}
+
+#subtitle{
+    ul {
+        list-style: none;
+     
+
+      }
+      
+      li {
+        display: inline-block;
+        font-family: Poppins;
+        font-size: 30px;
+        font-weight: 600px;
+        line-height: 35px;
+        letter-spacing: 0em;
+        margin-left: 291px;
+        margin-top: 100px;
+        width: 89px;
+        height: 35px;
+        top: 405px;
+        left: 391px;
+
+
+      }
+      
+}
+
+
+.form-group{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    width: auto;
+    font-size: 25px;
+    font-weight: 400;
+    
+    
+}
+
+input{
+    width: 52%;
+    margin-left: 275px;
+    font-family: Raleway;
+    background-color: #0000;
+    border: none;
+    color: #FFFFFF;
+}
+
+
+button{
+    margin-left: 10px;
+    background-color: transparent;
+    color:#FFFFFF;
+    border-radius: 5px;
+    padding: 10px;
+    width: 5%;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+    font-size: 25px;
+}
+
+.list{
+    margin-top: 30px ;
+    font-family: Raleway;
+    margin-left: 305px;
+    
+}
+
+li{
+    margin-bottom: 15px;
+    margin-left: -12px;
+    color: #FFFFFF ;
+    border: none ;
+    list-style-type: none;
+    border-radius: 5px;
+}
+
+
+.form-control{
+    font-size: 25px;
+}
+.list-items{
+    display: flex;
+}
+
+.list-item-list{
+    flex: 1;
+    font-size: 25px;
+}
+
+.list-item-icons{
+    padding-left: 5px;
+    font-size: 30px;
+    cursor: pointer;
+    font-family: Raleway;
+}
+
+#complete{
+    margin-right: 350px;
+    
+}
+
+
+
+#delete{
+    margin-right: 390px;
+}
+
+#list-item{
+    text-decoration: line-through;
+    opacity: 0.3;
+}
+
+#Quebra{
+    width: 950px;
+    height: 6px;
+    margin-top: 30px;
+    margin-bottom: 35px;
+    margin-left: 250px;
+    background: #D9D9D9;
+
+}

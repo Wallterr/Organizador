@@ -1,0 +1,55 @@
+.Header {
+    background-color: #0C70F2 ;
+    height: 74px;
+}
+
+.Header-itens{
+    display: flex;
+    flex-direction: row;
+}
+
+#organization{
+    font-family: Poppins;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+    margin-top: 29px;
+    margin-left: 61px;
+}
+
+#todo{
+    font-family: Poppins;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #0C70F2;
+    margin-top: 19px;
+    margin-left: 61px;
+    padding-top: 10px;
+    background-color: #FFFFFF;
+    width: 174px;
+    height: 54px;
+    top: 20px;
+    left: 265px;
+    border-radius: 10px 10px 0px 0px;
+    padding-left: 35px;
+
+
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+    li {
+        display: block;
+        margin-bottom: 10px;
+      }
+  }
